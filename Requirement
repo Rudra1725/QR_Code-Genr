@@ -1,0 +1,8 @@
+Python: Version 3.10 to 3.14 (64-bit) installed with "Add Python to PATH" enabled
+Package Manager: pip (bundled with Python)
+
+One-Line Setup Command
+To install all runtime dependencies directly in PowerShell or Terminal:
+
+Bash
+[ python -m pip install customtkinter qrcode[pil] pillow ]
